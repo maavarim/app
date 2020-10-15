@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/app/static/js/main.d156dac8.chunk.js",
+    "main.js.map": "/app/static/js/main.d156dac8.chunk.js.map",
+    "runtime-main.js": "/app/static/js/runtime-main.929b948e.js",
+    "runtime-main.js.map": "/app/static/js/runtime-main.929b948e.js.map",
+    "static/js/2.419ff7f1.chunk.js": "/app/static/js/2.419ff7f1.chunk.js",
+    "static/js/2.419ff7f1.chunk.js.map": "/app/static/js/2.419ff7f1.chunk.js.map",
+    "index.html": "/app/index.html",
+    "precache-manifest.cecf2aaf660b7d677c84cadbed993052.js": "/app/precache-manifest.cecf2aaf660b7d677c84cadbed993052.js",
+    "service-worker.js": "/app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/app/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.419ff7f1.chunk.js.LICENSE.txt": "/app/static/js/2.419ff7f1.chunk.js.LICENSE.txt",
+    "static/media/01.svg": "/app/static/media/01.8375b02f.svg",
+    "static/media/02.svg": "/app/static/media/02.ac8d05b0.svg",
+    "static/media/03.svg": "/app/static/media/03.811f31c5.svg",
+    "static/media/04.svg": "/app/static/media/04.02d7d336.svg",
+    "static/media/05.svg": "/app/static/media/05.faaaae74.svg",
+    "static/media/06.svg": "/app/static/media/06.bee4c83a.svg",
+    "static/media/07.svg": "/app/static/media/07.6a18e736.svg",
+    "static/media/08.svg": "/app/static/media/08.fce20cec.svg",
+    "static/media/CircuitBoard.svg": "/app/static/media/CircuitBoard.f5cc6d2e.svg",
+    "static/media/EmptyState.svg": "/app/static/media/EmptyState.1df3ce22.svg",
+    "static/media/FacebookIcon.svg": "/app/static/media/FacebookIcon.2925106f.svg",
+    "static/media/GoogleIcon.svg": "/app/static/media/GoogleIcon.3ec228d3.svg",
+    "static/media/Logo.jpeg": "/app/static/media/Logo.92c7842c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.929b948e.js",
+    "static/js/2.419ff7f1.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d156dac8.chunk.js"
+  ]
+}
